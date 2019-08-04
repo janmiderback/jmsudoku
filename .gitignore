@@ -1,0 +1,6 @@
+.vs/
+Debug/
+Release/
+*.csproj.user
+*.tmp
+*.swp
