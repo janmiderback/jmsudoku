@@ -1,6 +1,7 @@
 .vs/
 obj/
 bin/
+target/
 Debug/
 Release/
 *.csproj.user
